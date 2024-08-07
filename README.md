@@ -1,2 +1,6 @@
 # EHR
 EHR DATA ANALYSIS USING MACHINE LEARNING MODELS
+Researchers are using EHR data and machine learning techniques to predict adverse outcomes in healthcare. However, preprocessing EHR data for ML tasks is complex due to its messy nature, high dimensionality, irregular sampling, and missing values. Open-source frameworks have been developed to simplify data preparation for hierarchically multimodal EHR data. These frameworks are generalizable across prediction times, ML algorithms, and data sets, and robust to user-defined arguments settings. They are effective in low-resource clinical settings but have limitations, such as computational inefficiency.
+[1] Shengpu Tang, Parmida Davarmanesh, Yanmeng Song, Danai Koutra, Michael W Sjoding, and Jenna Wiens. Democratizing EHR analyses with FIDDLE: a flexible data-driven preprocessing pipeline for structured clinical data. Journal of the American Medical Informatics Association, 27(12):1921–1934, 10 2020. ISSN 1527-974X. doi: 10.1093/jamia/ocaa139. URL https://doi. org/10.1093/jamia/ocaa139.
+[2] Xiaochen Wang, Junyu Luo, Jiaqi Wang, Ziyi Yin, Suhan Cui, Yuan Zhong, Yaqing Wang, and Fenglong Ma. Hierarchical pretraining on multimodal electronic health records. pages 2839–
+2852, December 2023. doi: 10.18653/v1/2023.emnlp- main.171.URL https://aclanthology.org/2023. emnlp-main.171.
